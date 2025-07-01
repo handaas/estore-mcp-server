@@ -125,7 +125,6 @@ python server/mcp_server.py streamable-http
 
 **返回值**:
 - `total`: 总数
-- `resultList`: 结果列表
   - `nameId`: 企业id
   - `name`: 企业名称
   - `socialCreditCode`: 统一社会信用代码

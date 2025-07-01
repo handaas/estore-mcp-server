@@ -147,7 +147,6 @@ def estore_bigdata_fuzzy_search(matchKeyword: str, pageIndex: int = 1, pageSize:
 
     返回参数:
     - total: 总数 类型：int
-    - resultList: 结果列表 类型：list of dict
     - annualTurnover: 年营业额 类型：string
     - formerNames: 曾用名 类型：list of string
     - address: 注册地址 类型：string
